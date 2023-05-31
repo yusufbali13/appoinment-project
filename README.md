@@ -1,3 +1,1 @@
-# Appointment App
-
-## https://cw-hospital.netlify.app/
+https://doctors-proje.netlify.app/
